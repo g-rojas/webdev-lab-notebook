@@ -1,0 +1,5 @@
+Refleciton: 
+In this exercise, I worked on fixing accessibility issues in a starter HTML form. The main goal was to make the form more usable and readable for all users, including those using screen readers or assistive technology.
+I started by identifying problems using WAVE and Lighthouse accessibility audits.  me of the key improvements I made included:
+putting alt text for images, Adding or correcting <label> tags for every input field, using the for attribute to match the input’s id.
+Making sure placeholder text wasn’t the only way to describe an input’s purpose. Fixing color contrast issues to improve visibility. 
