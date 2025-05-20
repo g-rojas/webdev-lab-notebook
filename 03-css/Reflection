@@ -1,0 +1,6 @@
+Reflection:
+Working through these CSS exercises helped me build a much better understanding of how style and layout work in web design.
+Selectors and specificity taught me how CSS decides which styles to apply. I got more comfortable using class, ID, and element selectors, and I also learned how important it is to understand which rule "wins" when there are conflicts.
+Pseudo-classes like :hover made styling a lot more dynamic. It was fun to see how I could make elements respond to user actions without needing JavaScript.
+Layout and positioning were probably the trickiest part at first. I practiced using position: relative, absolute, and fixed, and started to understand how the flow of elements on the page can be controlled. I also worked with display: flex and grid to arrange content, which made layouts more responsive and cleaner.
+Media queries helped me understand how to make a page look good on different screen sizes. This was the first time I really saw how a site could adapt to phones, tablets, or desktops with just a few lines of CSS.
