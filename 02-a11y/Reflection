@@ -1,0 +1,5 @@
+n this exercise, I worked on fixing accessibility issues in a starter HTML form. The main goal was to make the form more usable and readable for all users,
+including those using screen readers or assistive technology.
+I started by identifying problems using WAVE and Lighthouse accessibility audits.
+These tools helped highlight missing form labels, input elements without associated <label> tags, and contrast issues. 
+I went through each issue one by one, making sure every form element had a clear label and that the HTML followed semantic best practices.
