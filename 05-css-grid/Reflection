@@ -1,0 +1,8 @@
+Working with CSS Grid gave me a deeper understanding of how to build complex, 
+structured layouts in a much more organized way. 
+Unlike Flexbox, which is great for one-dimensional layouts (row or column), 
+Grid let me control both rows and columns at the same time.
+I practiced using properties like grid-template-columns, grid-template-rows, and gap,
+which helped me create clean, responsive layouts without relying on floats or extra containers. 
+I also experimented with grid-area and grid-template-areas,
+which made naming and positioning sections feel a lot more readable.
